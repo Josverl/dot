@@ -1,0 +1,8 @@
+# Git configuration.
+#
+
+# Global Config
+[user]
+    name = "Jos Verlinde"
+    email = "jos_verlinde@hotmail.com"
+    
